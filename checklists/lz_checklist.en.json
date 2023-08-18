@@ -1328,7 +1328,7 @@
         {
             "category": "Network Topology and Connectivity",
             "subcategory": "Segmentation",
-            "text": "Use NSGs and application security groups to micro-segment traffic within the landing zone and avoid using a central NVA to filter traffic flows.",
+            "text": "Use NSGs and application security groups to micro-segment traffic within the landing zone.",
             "waf": "Security",
             "guid": "a4d87397-48b6-462d-9d15-f512a65498f6",
             "severity": "Medium",
