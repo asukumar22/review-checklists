@@ -1414,7 +1414,7 @@
         {
             "category": "Network Topology and Connectivity",
             "subcategory": "Virtual WAN",
-            "text": "Use AS-Path as hub routing preference, since it is more flexible than ExpressRoute or VPN.",
+            "text": "When using Expressroute and VPN together, BGP attribute like AS-Path can be used to prefer routing traffic over expressroute circuit than VPN.",
             "waf": "Reliability",
             "guid": "d49ac006-6670-4bc9-9948-d3e0a3a94f4d",
             "severity": "Medium",
